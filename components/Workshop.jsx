@@ -38,7 +38,7 @@ const Workshop = () => {
 
         {/* Title */}
         <h2 className="text-3xl sm:text-4xl text-pink-600 uppercase font-bold md:px-5">
-          Register for the "Papel Picado" Workshop
+          Register for the &quot;Papel Picado&quot;Workshop
         </h2>
 
         {/* Paragraph */}

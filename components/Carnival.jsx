@@ -33,7 +33,8 @@ const Carnival = () => {
           {/* Card 1 */}
           <div className="p-6 rounded-lg text-center bg-white shadow-md hover:shadow-xl transform transition-all duration-300 ease-in-out">
             <h3 className="2xl:text-[28px] md:text-[20px] leading-8 font-semibold text-left text-violet-800 uppercase mb-2">
-              Opening "Grand Parade"
+              Opening &quot;Grand Parade&quot;
+
             </h3>
             <p className="text-pink-800 font-semibold text-left uppercase text-[18px] mb-4">
               November 1, 2024
@@ -48,7 +49,7 @@ const Carnival = () => {
           {/* Card 2 */}
           <div className="p-6 rounded-lg text-center bg-white shadow-md hover:shadow-xl transform transition-all duration-300 ease-in-out">
             <h3 className="2xl:text-[28px] md:text-[20px] leading-8 font-semibold text-left text-violet-800 uppercase mb-2">
-              Meet "Doña Concha" Visit to the Pantheon
+              Meet &quot;Doña Concha&quot;Visit to the Pantheon
             </h3>
             <p className="text-pink-800 font-semibold text-left uppercase text-[18px] mb-4">
               November 2, 2024
@@ -63,7 +64,8 @@ const Carnival = () => {
           {/* Card 3 */}
           <div className="p-6 rounded-lg text-center bg-white shadow-md hover:shadow-xl transform transition-all duration-300 ease-in-out">
             <h3 className="2xl:text-[28px] md:text-[20px] leading-8 font-semibold text-left text-violet-800 uppercase mb-2">
-              Closing of the Carnival - The Life of "Aunt Toña"
+              Closing of the Carnival - The Life of &quot;Aunt Toña&quot;
+
             </h3>
             <p className="text-pink-800 font-semibold uppercase text-left text-[18px] mb-4">
               November 3, 2024
